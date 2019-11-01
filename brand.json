@@ -1,0 +1,397 @@
+[
+  {
+    "id": 1,
+    "marca": "Abarth",
+    "tipo": 1
+  },
+  {
+    "id": 2,
+    "marca": "Alfa Romeo",
+    "tipo": 1
+  },
+  {
+    "id": 3,
+    "marca": "Aro",
+    "tipo": 1
+  },
+  {
+    "id": 4,
+    "marca": "Asia",
+    "tipo": 1
+  },
+  {
+    "id": 5,
+    "marca": "Asia Motors",
+    "tipo": 1
+  },
+  {
+    "id": 6,
+    "marca": "Aston Martin",
+    "tipo": 1
+  },
+  {
+    "id": 7,
+    "marca": "Audi",
+    "tipo": 1
+  },
+  {
+    "id": 8,
+    "marca": "Austin",
+    "tipo": 1
+  },
+  {
+    "id": 9,
+    "marca": "Auverland",
+    "tipo": 1
+  },
+  {
+    "id": 10,
+    "marca": "Bentley",
+    "tipo": 1
+  },
+  {
+    "id": 11,
+    "marca": "Bertone",
+    "tipo": 1
+  },
+  {
+    "id": 12,
+    "marca": "Bmw",
+    "tipo": 1
+  },
+  {
+    "id": 13,
+    "marca": "Cadillac",
+    "tipo": 1
+  },
+  {
+    "id": 14,
+    "marca": "Chevrolet",
+    "tipo": 1
+  },
+  {
+    "id": 15,
+    "marca": "Chrysler",
+    "tipo": 1
+  },
+  {
+    "id": 16,
+    "marca": "Citroen",
+    "tipo": 1
+  },
+  {
+    "id": 17,
+    "marca": "Corvette",
+    "tipo": 1
+  },
+  {
+    "id": 18,
+    "marca": "Dacia",
+    "tipo": 1
+  },
+  {
+    "id": 19,
+    "marca": "Daewoo",
+    "tipo": 1
+  },
+  {
+    "id": 20,
+    "marca": "Daf",
+    "tipo": 1
+  },
+  {
+    "id": 21,
+    "marca": "Daihatsu",
+    "tipo": 1
+  },
+  {
+    "id": 22,
+    "marca": "Daimler",
+    "tipo": 1
+  },
+  {
+    "id": 23,
+    "marca": "Dodge",
+    "tipo": 1
+  },
+  {
+    "id": 24,
+    "marca": "Ferrari",
+    "tipo": 1
+  },
+  {
+    "id": 25,
+    "marca": "Fiat",
+    "tipo": 1
+  },
+  {
+    "id": 26,
+    "marca": "Ford",
+    "tipo": 1
+  },
+  {
+    "id": 27,
+    "marca": "Galloper",
+    "tipo": 1
+  },
+  {
+    "id": 28,
+    "marca": "Gmc",
+    "tipo": 1
+  },
+  {
+    "id": 29,
+    "marca": "Honda",
+    "tipo": 1
+  },
+  {
+    "id": 30,
+    "marca": "Hummer",
+    "tipo": 1
+  },
+  {
+    "id": 31,
+    "marca": "Hyundai",
+    "tipo": 1
+  },
+  {
+    "id": 32,
+    "marca": "Infiniti",
+    "tipo": 1
+  },
+  {
+    "id": 33,
+    "marca": "Innocenti",
+    "tipo": 1
+  },
+  {
+    "id": 34,
+    "marca": "Isuzu",
+    "tipo": 1
+  },
+  {
+    "id": 35,
+    "marca": "Iveco",
+    "tipo": 1
+  },
+  {
+    "id": 36,
+    "marca": "Iveco-pegaso",
+    "tipo": 1
+  },
+  {
+    "id": 37,
+    "marca": "Jaguar",
+    "tipo": 1
+  },
+  {
+    "id": 38,
+    "marca": "Jeep",
+    "tipo": 1
+  },
+  {
+    "id": 39,
+    "marca": "Kia",
+    "tipo": 1
+  },
+  {
+    "id": 40,
+    "marca": "Lada",
+    "tipo": 1
+  },
+  {
+    "id": 41,
+    "marca": "Lamborghini",
+    "tipo": 1
+  },
+  {
+    "id": 42,
+    "marca": "Lancia",
+    "tipo": 1
+  },
+  {
+    "id": 43,
+    "marca": "Land-rover",
+    "tipo": 1
+  },
+  {
+    "id": 44,
+    "marca": "Ldv",
+    "tipo": 1
+  },
+  {
+    "id": 45,
+    "marca": "Lexus",
+    "tipo": 1
+  },
+  {
+    "id": 46,
+    "marca": "Lotus",
+    "tipo": 1
+  },
+  {
+    "id": 47,
+    "marca": "Mahindra",
+    "tipo": 1
+  },
+  {
+    "id": 48,
+    "marca": "Maserati",
+    "tipo": 1
+  },
+  {
+    "id": 49,
+    "marca": "Maybach",
+    "tipo": 1
+  },
+  {
+    "id": 50,
+    "marca": "Mazda",
+    "tipo": 1
+  },
+  {
+    "id": 51,
+    "marca": "Mercedes-benz",
+    "tipo": 1
+  },
+  {
+    "id": 52,
+    "marca": "Mg",
+    "tipo": 1
+  },
+  {
+    "id": 53,
+    "marca": "Mini",
+    "tipo": 1
+  },
+  {
+    "id": 54,
+    "marca": "Mitsubishi",
+    "tipo": 1
+  },
+  {
+    "id": 55,
+    "marca": "Morgan",
+    "tipo": 1
+  },
+  {
+    "id": 56,
+    "marca": "Nissan",
+    "tipo": 1
+  },
+  {
+    "id": 57,
+    "marca": "Opel",
+    "tipo": 1
+  },
+  {
+    "id": 58,
+    "marca": "Peugeot",
+    "tipo": 1
+  },
+  {
+    "id": 59,
+    "marca": "Pontiac",
+    "tipo": 1
+  },
+  {
+    "id": 60,
+    "marca": "Porsche",
+    "tipo": 1
+  },
+  {
+    "id": 61,
+    "marca": "Renault",
+    "tipo": 1
+  },
+  {
+    "id": 62,
+    "marca": "Rolls-royce",
+    "tipo": 1
+  },
+  {
+    "id": 63,
+    "marca": "Rover",
+    "tipo": 1
+  },
+  {
+    "id": 64,
+    "marca": "Saab",
+    "tipo": 1
+  },
+  {
+    "id": 65,
+    "marca": "Santana",
+    "tipo": 1
+  },
+  {
+    "id": 66,
+    "marca": "Seat",
+    "tipo": 1
+  },
+  {
+    "id": 67,
+    "marca": "Skoda",
+    "tipo": 1
+  },
+  {
+    "id": 68,
+    "marca": "Smart",
+    "tipo": 1
+  },
+  {
+    "id": 69,
+    "marca": "Ssangyong",
+    "tipo": 1
+  },
+  {
+    "id": 70,
+    "marca": "Subaru",
+    "tipo": 1
+  },
+  {
+    "id": 71,
+    "marca": "Suzuki",
+    "tipo": 1
+  },
+  {
+    "id": 72,
+    "marca": "Talbot",
+    "tipo": 1
+  },
+  {
+    "id": 73,
+    "marca": "Tata",
+    "tipo": 1
+  },
+  {
+    "id": 74,
+    "marca": "Toyota",
+    "tipo": 1
+  },
+  {
+    "id": 75,
+    "marca": "Umm",
+    "tipo": 1
+  },
+  {
+    "id": 76,
+    "marca": "Vaz",
+    "tipo": 1
+  },
+  {
+    "id": 77,
+    "marca": "Volkswagen",
+    "tipo": 1
+  },
+  {
+    "id": 78,
+    "marca": "Volvo",
+    "tipo": 1
+  },
+  {
+    "id": 79,
+    "marca": "Wartburg",
+    "tipo": 1
+  }
+]
